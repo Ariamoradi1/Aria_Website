@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7d3ae014.css",
+    "main.js": "/static/js/main.5f3b7ee2.js",
+    "static/js/787.e5b135d4.chunk.js": "/static/js/787.e5b135d4.chunk.js",
+    "static/media/walweb.jpg": "/static/media/walweb.dd7a5e1de28a876e823a.jpg",
+    "static/media/walmyweb.jpg": "/static/media/walmyweb.41f61d005e89434247f0.jpg",
+    "static/media/workhouse.jpg": "/static/media/workhouse.aa1720e5c9be97da28ff.jpg",
+    "static/media/Servicepic.jpg": "/static/media/Servicepic.6b9eec57704d70c5f051.jpg",
+    "index.html": "/index.html",
+    "main.7d3ae014.css.map": "/static/css/main.7d3ae014.css.map",
+    "main.5f3b7ee2.js.map": "/static/js/main.5f3b7ee2.js.map",
+    "787.e5b135d4.chunk.js.map": "/static/js/787.e5b135d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d3ae014.css",
+    "static/js/main.5f3b7ee2.js"
+  ]
+}
